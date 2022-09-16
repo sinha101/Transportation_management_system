@@ -73,7 +73,7 @@ def ticket(request):
     # print(text)
 
     lines = [
-        "Welcome to optimal transportation system",
+        "Welcome to Transportation Management System",
         " ",
         "Your ticket is below",
         " ",
@@ -93,7 +93,7 @@ def ticket(request):
         " ",
         ""+text,
         "",
-        "All right reserved by optimal transportation system",
+        "All right reserved by Transportation Management System",
 
     ]
 
